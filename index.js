@@ -17,3 +17,5 @@ require('http').createServer(function (request, response) {
         file.serve(request, response);
     }).resume();
 }).listen(port);
+
+console.log("http server listening on %d", port)
