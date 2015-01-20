@@ -77,7 +77,7 @@ $(".navbar").sticky({topSpacing: 0});
     
 $('.chart').waypoint(function() {
     $(this).easyPieChart({
-    	   barColor: '#3498db',
+    	   barColor: '#e74c3c',
     	   size: '150',
 			easing: 'easeOutBounce',
 			onStep: function(from, to, percent) {
