@@ -49,7 +49,7 @@ $(document).ready(function(){
 
 
 /* Magnific Popup */
-$('.grid-wrapper').magnificPopup({
+$('.fart').magnificPopup({
 		  delegate: 'a', 
 		  type: 'image',
 		  gallery:{
