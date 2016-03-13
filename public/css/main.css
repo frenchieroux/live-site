@@ -184,7 +184,7 @@ background-color: transparent;
     display: inline-block; 
 }
 #grid .mix{
-    width: 200px;
+    width: 150px;
     height: 150px;
     vertical-align: top;
     margin:20px 20px 20px 0 ;
@@ -203,8 +203,8 @@ background-color: transparent;
 
 
 #grid .mix .overlay{
-    width: 200px;
-    height: 150px;
+    width: 150px;
+    height: 130px;
     position:absolute;
     opacity:0;
 
